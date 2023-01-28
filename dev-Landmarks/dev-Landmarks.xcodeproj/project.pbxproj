@@ -22,6 +22,7 @@
 		79E6FE1C297EFE4D00E7433F /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E6FE1B297EFE4D00E7433F /* FavoriteButton.swift */; };
 		79E6FE202985294400E7433F /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E6FE1F2985294400E7433F /* HexagonParameters.swift */; };
 		79E6FE2229852B5400E7433F /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E6FE2129852B5400E7433F /* BadgeBackground.swift */; };
+		79E6FE24298532CB00E7433F /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E6FE23298532CB00E7433F /* BadgeSymbol.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		79E6FE1B297EFE4D00E7433F /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		79E6FE1F2985294400E7433F /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		79E6FE2129852B5400E7433F /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
+		79E6FE23298532CB00E7433F /* BadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeSymbol.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				79E6FE1D297EFF7A00E7433F /* Helpers */,
 				79E6FE1F2985294400E7433F /* HexagonParameters.swift */,
 				79E6FE2129852B5400E7433F /* BadgeBackground.swift */,
+				79E6FE23298532CB00E7433F /* BadgeSymbol.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 				790A893A297D51D2007B4651 /* dev_LandmarksApp.swift in Sources */,
 				79E6FE1C297EFE4D00E7433F /* FavoriteButton.swift in Sources */,
 				79E6FE202985294400E7433F /* HexagonParameters.swift in Sources */,
+				79E6FE24298532CB00E7433F /* BadgeSymbol.swift in Sources */,
 				790A8958297D8BBC007B4651 /* LandmarkList.swift in Sources */,
 				790A895A297D8EC9007B4651 /* LandmarkDetail.swift in Sources */,
 				79E6FE2229852B5400E7433F /* BadgeBackground.swift in Sources */,
